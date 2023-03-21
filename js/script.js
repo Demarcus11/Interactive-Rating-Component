@@ -1,8 +1,8 @@
-const interactiveContainer = document.querySelector(".interactive");
-const thankYouContainer = document.querySelector(".thank-you");
-const submitButton = document.querySelector(".button");
-const rating = document.getElementById("rating");
-const ratingButtons = document.querySelectorAll(".rating-circle");
+const interactiveContainer = document.querySelector(".interactive"),
+  thankYouContainer = document.querySelector(".thank-you"),
+  submitButton = document.querySelector(".button"),
+  rating = document.getElementById("rating"),
+  ratingButtons = document.querySelectorAll(".rating-circle");
 
 // EV for submit
 submitButton.addEventListener("click", () => {
