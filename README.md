@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Demarcus11/Interactive-Rating-Component.git)
+- Live Site URL: [Live](https://demarcus11.github.io/Interactive-Rating-Component/)
 
 ## My process
 
